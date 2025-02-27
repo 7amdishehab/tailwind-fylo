@@ -5,13 +5,13 @@ function Footer() {
         <div className="flex flex-col justify-center items-start gap-[40px]">
           <div>
             <a href="/">
-                <img src="/src/assets/images/logo.svg" alt="Fylo Logo" className="w-[175px] h-auto object-contain" />
+                <img src="./src/assets/images/logo.svg" alt="Fylo Logo" className="w-[175px] h-auto object-contain" />
               </a>
           </div>
           <div className="flex flex-col md:flex-row justify-between items-start gap-[40px] md:gap-[60px] xl:gap-[100px]">
             <div className="flex flex-col gap-6 max-w-md">
               <div className="flex gap-4">
-                <img src="/src/assets/images/icon-location.svg" alt="location" className="w-6 h-6" />
+                <img src="./src/assets/images/icon-location.svg" alt="location" className="w-6 h-6" />
                 <p className="text-sm">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nisi dignissimos unde ipsum modi facilis nam magni, assumenda ad fuga.
                 </p>
@@ -20,11 +20,11 @@ function Footer() {
 
             <div className="flex flex-col gap-4">
               <div className="flex gap-4 items-center">
-                <img src="/src/assets/images/icon-phone.svg" alt="phone" className="icon" />
+                <img src="./src/assets/images/icon-phone.svg" alt="phone" className="icon" />
                 <p className="text-sm">+20121212121</p>
               </div>
               <div className="flex gap-4 items-center">
-                <img src="/src/assets/images/icon-email.svg" alt="email" className="icon" />
+                <img src="./src/assets/images/icon-email.svg" alt="email" className="icon" />
                 <p className="text-sm">example@fylo.com</p>
               </div>
             </div>

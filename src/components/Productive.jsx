@@ -4,7 +4,7 @@ function Productive() {
       <div className="container con py-[100px] grid grid-cols-1 md:grid-cols-2 gap-[40px] justify-between items-center text-center md:text-start">
         <div>
           <img 
-            src="/src/assets/images/illustration-stay-productive.png" 
+            src="./src/assets/images/illustration-stay-productive.png" 
             alt="productive" 
             className="animate-upDown"
           />
@@ -18,7 +18,7 @@ function Productive() {
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate commodi quo ratione quam tempora laudantium id adipisci perferendis? Sunt, quia sit quaerat iusto facilis ut in delectus doloribus culpa laboriosam?
           </p>
           <a href="/" className="mx-auto md:mx-0 text-primary hover:text-sec border-b-1 pb-[5px] flex items-center gap-[15px] w-fit transition-colors duration-200">see how fylo works
-            <img src="/src/assets/images/icon-arrow.svg" alt="arror" 
+            <img src="./src/assets/images/icon-arrow.svg" alt="arror" 
             className="animate-moveRight  w-[20px] h-[20px] object-contain"/></a>
         </div>
       </div>

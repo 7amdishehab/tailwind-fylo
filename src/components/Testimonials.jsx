@@ -29,7 +29,7 @@ function Testimonials() {
     <section className="bg-[#1D2230] pt-[100px] pb-[250px]">
       <div className="container con relative">
         <div className="absolute left-[20px] top-[-35px]">
-          <img src={`/src/assets/images/bg-quotes.png`} alt="qoute" className="" />
+          <img src={`./src/assets/images/bg-quotes.png`} alt="qoute" className="" />
         </div>
         <div className="z-40 relative grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-[40px]">
           {testData.map((item)=>(

@@ -21,7 +21,7 @@ function Header() {
       className="p-[40px] fixed top-0 left-0 w-full z-50 transition-all duration-300">
       <div className="container con flex items-center justify-between gap-[30px] sm:gap-0 flex-col sm:flex-row">
         <a href="/">
-        <img src="/src/assets/images/logo.svg" alt="Logo-img" className="w-25"/>
+        <img src="./src/assets/images/logo.svg" alt="Logo-img" className="w-25"/>
         </a>
         <nav>
           <ul className="flex gap-[10px] justify-center items-center">
